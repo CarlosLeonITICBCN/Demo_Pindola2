@@ -2,7 +2,7 @@
 
 ## LAB amb intervenció manual
 
-Guia AWS C9:
+Guia AWS Console:
 https://docs.google.com/document/d/1SWN9I6KM0xYHCTJs1SVdAD3h3qBavLRzvktet7gOq4g/edit?usp=sharing
 
 1) crear la infraestructura
